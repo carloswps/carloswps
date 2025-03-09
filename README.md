@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Olá, me chamo Carlos Wendell, tenho 19 anos e sou natural da Bahia, porém atualmente moro em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera de Guarulhos. 
+Olá, meu nome é Carlos Wendell, tenho 19 anos e sou natural da Bahia. Atualmente, moro em São Paulo e curso Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera de Guarulhos. 
 
 <p align="left">
     <a href="https://www.instagram.com/carlosw005_?igsh=MXhwcWIzNGEyN3lrcg==">
