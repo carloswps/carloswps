@@ -38,4 +38,4 @@ Desenvolvedor em formação, 19 anos, natural da Bahia e atualmente morando em S
 
 ---
 
-⭐️ From [CarlosWPS](https://github.com/carloswps)
+⭐️ From [carloswps](https://github.com/carloswps)
