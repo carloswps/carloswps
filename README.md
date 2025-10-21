@@ -28,6 +28,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Busco sempre aprend
     <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
     <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+    <img alt="Redis" title="Redis" width="60px" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"/>
+
 </div>
 
 <br/><br/>
@@ -37,6 +39,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Busco sempre aprend
 - **MySQL** – Utilizado no trabalho para sistemas relacionais.
 - **PostgreSQL** – Para estudos e experimentação com banco SQL.
 - **MongoDB** – Para estudos e experimentação com banco NoSQL.
+- **Redis** – Usado como banco em memória para **cache de dados**, **filas** e **armazenamento temporário** de sessões.
 
 <br/>
 
