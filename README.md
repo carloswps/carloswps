@@ -48,7 +48,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Busco sempre aprend
 <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=carloswps&theme=transparent"/>
     <br/><br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloswps&layout=compact&theme=transparent"/>
 </div>
 
 ---
