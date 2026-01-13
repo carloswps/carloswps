@@ -43,13 +43,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Busco sempre aprend
 
 <br/>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=carloswps&theme=transparent"/>
-    <br/><br/>
-</div>
-
 ---
 
 ⭐️ De [carloswps](https://github.com/carloswps)
