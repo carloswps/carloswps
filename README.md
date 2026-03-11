@@ -29,6 +29,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Busco sempre aprend
     <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
     <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
     <img alt="Redis" title="Redis" width="60px" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"/>
+    <img alt="Python" title="Python" width="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/>
 
 </div>
 
