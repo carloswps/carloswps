@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Carlos Wendell
 
-Full Stack Developer | Especialista em IA | React + C# + Python
+Full Stack Developer | Docker | React + C# + Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-wendell-6229b9260)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carloswps)
